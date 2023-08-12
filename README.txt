@@ -1,0 +1,1 @@
+Run this python script by calling python3 scraper.py to install all the Ordinal NFT images from ordiscan.

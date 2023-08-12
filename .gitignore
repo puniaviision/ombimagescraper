@@ -1,0 +1,14 @@
+# Ignore all .log files
+*.log
+
+# Ignore the node_modules directory
+node_modules/
+
+# Ignore the build directory
+build/
+
+# Ignore a specific file
+secret_config.yaml
+
+#Ignore images
+ordinals/
